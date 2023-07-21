@@ -1,4 +1,6 @@
-HELLO WORLD ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MYNTCODE 🌍
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif)
+
+HELLO WORLD !! My name is MYNTCODE 🌍
 ================================================================================================================================
 
 * 🌍  I'm based in BKK, Thailand
