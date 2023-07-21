@@ -1,6 +1,8 @@
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" alt="GIF" width="100" height="100">
 
-HELLO WORLD !! My name is MYNTCODE 🌍
+
+HELLO WORLD !!  
+I'm MYNTCODE.
 ================================================================================================================================
 
 * 🌍  I'm based in BKK, Thailand
