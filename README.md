@@ -7,7 +7,7 @@ I'm MYNTCODE.
 
 * 🌍  I'm based in BKK, Thailand
 * ✉️  You can contact me at [myntpwork@gmail.com](mailto:myntpwork@gmail.com)
-* 🧠  I'm learning HTML , CSS , JS / React
+* 🧠  Full Stack Developer in Training
 
 ### Skills
 
