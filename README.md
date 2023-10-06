@@ -1,23 +1,25 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" alt="GIF" width="100" height="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" alt="GIF" width="50" height="50">
 
-
-HELLO WORLD !!  
-I'm MYNTCODE.
-================================================================================================================================
 
 * 🌍  I'm based in BKK, Thailand
 * ✉️  You can contact me at [myntpwork@gmail.com](mailto:myntpwork@gmail.com)
-* 🧠  Full Stack Developer in Training
+* 🧠  Full Stack Developer.
 
 ### Skills
 
 
-<p align="left">
+<p align="left">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
 
