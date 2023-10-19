@@ -1,9 +1,14 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlxeTVpbDFncHpzcWs5N3pocmgwcHBiZWY1NzR6aXlubmIwZDFmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/e0Uiyu70TXQAALdKP9/giphy-downsized-large.gif" alt="GIF" width="50" height="50">
 
+<p> Hello, my name is Mint.  Currently  graduate of the Full-Stack Software
+Developer Bootcamp and working as a content creator. I'm interested in coding because it feels like creating something new and coding project can solving a problem for people. </p>
 
-* 🌍  I'm based in BKK, Thailand
-* ✉️  You can contact me at [myntpwork@gmail.com](mailto:myntpwork@gmail.com)
-* 🧠  Full Stack Developer.
+* ✉️  You can contact me at [myntpwork@gmail.com](mailto:myntpwork@gmail.com) 
+
+ <div>🌍  I'm based in BKK, Thailand </div>
+ <div>🧠  Coding makes me feel like I'm getting something new everyday. </div>
+
+
 
 ### Skills
 
